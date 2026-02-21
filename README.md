@@ -17,5 +17,5 @@ gcc main_code.c code1.c mmio.c -o omp_sparse_mult
 **Run:**
 
 ```bash
-./sparse_mult
+./omp_sparse_mult
 ```
